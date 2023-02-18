@@ -13,6 +13,6 @@
 ## Modes 
 - ✅ High Power Jammer
 - ✅ High freq puls
-- ✅ PLow freq puls
+- ✅ Low freq puls
 - ✅ Fake Data
 - ✅ Fake Data 2
