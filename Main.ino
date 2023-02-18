@@ -1,7 +1,5 @@
 //https://github.com/Tiegertropfen119-0001/Arduino-Car-Key-Jammer
 #define rf 2
-
-int sup = 0;
 void setup() {
   Serial.begin(9600);
   pinMode(rf, OUTPUT);
