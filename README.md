@@ -25,3 +25,5 @@
 ###
 
 > If you make a video of this or a block post please link my github
+
+# ❗ It's important to be aware of the legality of jamming signals in your region before using or building such a device. ❗
