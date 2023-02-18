@@ -16,3 +16,9 @@
 - ✅ Low freq puls
 - ✅ Fake Data
 - ✅ Fake Data 2
+
+## What arduino do i need ?
+> You can use every Arduino. I used an LGT8F328. This is a cheap copy of an Arduino Nano.
+###
+
+> If you make a video of this or a block post please link my github
