@@ -17,6 +17,9 @@
 - ✅ Fake Data
 - ✅ Fake Data 2
 
+## How to use
+> You can connect via the serial port at a baud rate of '9600'. Once you've done this, you can type the number '0' and send it. If everything works, you will get the following text back: '1 / High Power Jammer | 2 / High Freq Puls | 3 / Low Freq Puls | 4 / Fake Data | 5 / Fake Data 2'. Then you can choose a number to stop the jamming. To stop the jamming, you need to press the reset button on your Arduino/chip.
+
 ## What arduino do i need ?
 > You can use every Arduino. I used an LGT8F328. This is a cheap copy of an Arduino Nano.
 ###
