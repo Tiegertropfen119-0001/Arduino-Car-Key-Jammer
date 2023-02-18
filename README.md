@@ -24,6 +24,9 @@
 > You can use every Arduino. I used an LGT8F328. This is a cheap copy of an Arduino Nano.
 ###
 
+## What is the range ?
+> I tested it at 50m distance
+#
 > If you make a video of this or a block post please link my github
 
 # ❗ It's important to be aware of the legality of jamming signals in your region before using or building such a device. ❗
