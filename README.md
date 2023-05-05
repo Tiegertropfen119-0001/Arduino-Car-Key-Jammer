@@ -3,7 +3,7 @@
 ### What is that ???
 > This is a small project about an RF module for an Arduino. This module can transmit at 433 MHz, which can be used to jam or disable a car key. This project is for educational and informational purposes only. In some countries, it is illegal to block a signal. I assume no liability for any damage.
 
-### Does this work ❓
+### Does it work ❓
 > Yes, it works, but not for every car, and 433 MHz is used in Europe, not in the USA (for the USA, it is 315 MHz or 868 & 915 MHz).
 ## What is a roll jam
 > A roll jam is a type of jamming attack that targets wireless communication devices, such as those that use radio frequency (RF) signals to transmit and receive data. > It works by exploiting the vulnerability of some wireless devices that use a "rolling code" algorithm to prevent replay attacks.
