@@ -1,5 +1,12 @@
 # Arduino-Car-Key-Jammer 🔑
 # ❗ For Educational And Informational Purposes Only ❗
+### Support me 
+- BTC : bc1qewn4exq2clynkf8gdu446d6kx2xyq8ltcuv569
+- ETH : 0xc7B62ae9aCA9687B0CCD280c33CFD9951801d829
+- XMR : 475vC4AnXp4SWcM5yesBMySBjbr7E2EPC4u4eVDzM1fsH4PmpcRofamEQwNUzBWfHoS1ocMXncBTRg91pNvcnFwC8dQkp3J
+- RVN : RSdg7TnFZMLLKwdoCXMKMKVcSn3ZRDiTFp
+- LTC : LMihbSPVpDPLEj1EvFAc65wfY8vHUWoPVF
+
 ### What is that ???
 > This is a small project about an RF module for an Arduino. This module can transmit at 433 MHz, which can be used to jam or disable a car key. This project is for educational and informational purposes only. In some countries, it is illegal to block a signal. I assume no liability for any damage.
 
